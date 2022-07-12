@@ -1,0 +1,22 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "f",
+  "main": "f",
+  "scripts": {
+    "test": "f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ausbosspoland/jest-another-RPG.git"
+  },
+  "keywords": [
+    "f"
+  ],
+  "author": "f",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ausbosspoland/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ausbosspoland/jest-another-RPG#readme"
+}
