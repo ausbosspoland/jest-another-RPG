@@ -4,7 +4,7 @@
   "description": "f",
   "main": "f",
   "scripts": {
-    "test": "f"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ausbosspoland/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/ausbosspoland/jest-another-RPG#readme"
+  "homepage": "https://github.com/ausbosspoland/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
 }
