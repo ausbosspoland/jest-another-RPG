@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/ausbosspoland/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^28.1.2"
+    "jest": "^24.9.0"
   }
 }
